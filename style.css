@@ -7,6 +7,7 @@
     padding : 8px;
     font-size :large;
     margin : 16px;
+    font-family : "lucida handwriting"
 }
 .lemon {
     background-color :blanchedalmond;
@@ -22,4 +23,7 @@
 }
 .banana {
     background-color :yellow;
+}
+body {
+    font-family : papyrus;
 }
