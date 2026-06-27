@@ -1,0 +1,25 @@
+.title {
+    font-size :larger;
+    font-style :italic;
+    background-color :beige;
+}
+.links {
+    padding : 8px;
+    font-size :large;
+    margin : 16px;
+}
+.lemon {
+    background-color :blanchedalmond;
+}
+.bread {
+    background-color :rgba(220, 136, 113, 0.691);
+}
+.rec {
+    padding : 10px;
+    font-weight : bold;
+    margin : 8px;
+    font-size :bold;
+}
+.banana {
+    background-color :yellow;
+}
